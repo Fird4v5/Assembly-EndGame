@@ -26,7 +26,7 @@ A fun word-guessing game with a programming twist. You have 8 attempts to guess 
 ---
 
 ## 🌐 Live Demo  
-👉 [firdavs.codes](https://firdavs.codes)  
+👉 [assembly-endgame.firdavs.codes](https://assembly-endgame.firdavs.codes)  
 
 ---
 
