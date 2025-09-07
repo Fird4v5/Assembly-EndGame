@@ -14,8 +14,8 @@ A fun word-guessing game with a programming twist. You have 8 attempts to guess 
 ---
 
 ## 📸 Preview  
-![Assembly Endgame Screenshot](./screenshot.png)  
-*(Add your screenshot here once ready)*  
+<img width="2560" height="1600" alt="assemblyendgamef netlify app_(Nest Hub Max)-min" src="https://github.com/user-attachments/assets/83ee42ca-ae08-48c2-a92b-f288eecc2228" />
+
 
 ---
 
